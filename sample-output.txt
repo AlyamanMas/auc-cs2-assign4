@@ -1,0 +1,331 @@
+Deck before distribution:
+| Index | Card        |
+|-------|-------------|
+| 0     | Heart 3     |
+| 1     | Spade 8     |
+| 2     | Spade 3     |
+| 3     | Club 8      |
+| 4     | Diamond 3   |
+| 5     | Club 2      |
+| 6     | Diamond Q   |
+| 7     | Spade A     |
+| 8     | Heart 5     |
+| 9     | Spade 2     |
+| 10    | Heart 7     |
+| 11    | Heart J     |
+| 12    | Diamond 7   |
+| 13    | Heart 9     |
+| 14    | Spade Q     |
+| 15    | Club 6      |
+| 16    | Heart T     |
+| 17    | Club Q      |
+| 18    | Club A      |
+| 19    | Heart 8     |
+| 20    | Diamond A   |
+| 21    | Diamond 9   |
+| 22    | Diamond K   |
+| 23    | Heart 4     |
+| 24    | Spade 6     |
+| 25    | Club 5      |
+| 26    | Diamond 6   |
+| 27    | Spade 7     |
+| 28    | Club 3      |
+| 29    | Club 9      |
+| 30    | Spade 4     |
+| 31    | Spade 9     |
+| 32    | Heart 2     |
+| 33    | Spade 5     |
+| 34    | Heart K     |
+| 35    | Club 7      |
+| 36    | Club T      |
+| 37    | Spade J     |
+| 38    | Spade K     |
+| 39    | Diamond T   |
+| 40    | Heart Q     |
+| 41    | Club 4      |
+| 42    | Diamond 2   |
+| 43    | Heart A     |
+| 44    | Diamond 8   |
+| 45    | Diamond 5   |
+| 46    | Club K      |
+| 47    | Diamond J   |
+| 48    | Heart 6     |
+| 49    | Diamond 4   |
+| 50    | Club J      |
+| 51    | Spade T     |
+
+Displaying hand of player 0
+| Index | Card        |
+|-------|-------------|
+| 0     | Spade T     |
+| 1     | Diamond J   |
+| 2     | Heart A     |
+| 3     | Diamond T   |
+| 4     | Club 7      |
+| 5     | Spade 9     |
+| 6     | Spade 7     |
+| 7     | Heart 4     |
+| 8     | Heart 8     |
+| 9     | Club 6      |
+| 10    | Heart J     |
+| 11    | Spade A     |
+| 12    | Club 8      |
+
+Displaying hand of player 1
+| Index | Card        |
+|-------|-------------|
+| 0     | Club J      |
+| 1     | Club K      |
+| 2     | Diamond 2   |
+| 3     | Spade K     |
+| 4     | Heart K     |
+| 5     | Spade 4     |
+| 6     | Diamond 6   |
+| 7     | Diamond K   |
+| 8     | Club A      |
+| 9     | Spade Q     |
+| 10    | Heart 7     |
+| 11    | Diamond Q   |
+| 12    | Spade 3     |
+
+Displaying hand of player 2
+| Index | Card        |
+|-------|-------------|
+| 0     | Diamond 4   |
+| 1     | Diamond 5   |
+| 2     | Club 4      |
+| 3     | Spade J     |
+| 4     | Spade 5     |
+| 5     | Club 9      |
+| 6     | Club 5      |
+| 7     | Diamond 9   |
+| 8     | Club Q      |
+| 9     | Heart 9     |
+| 10    | Spade 2     |
+| 11    | Club 2      |
+| 12    | Spade 8     |
+
+Displaying hand of player 3
+| Index | Card        |
+|-------|-------------|
+| 0     | Heart 6     |
+| 1     | Diamond 8   |
+| 2     | Heart Q     |
+| 3     | Club T      |
+| 4     | Heart 2     |
+| 5     | Club 3      |
+| 6     | Spade 6     |
+| 7     | Diamond A   |
+| 8     | Heart T     |
+| 9     | Diamond 7   |
+| 10    | Heart 5     |
+| 11    | Diamond 3   |
+| 12    | Heart 3     |
+
+| Player | Card        | Value of Card  |
+|--------|-------------|----------------|
+| 0      | Club 8      | 14             |
+| 1      | Spade 3     | 8              |
+| 2      | Spade 8     | 13             |
+| 3      | Heart 3     | 6              |
+Winning Player: 0
+
+Current Scores:
+| Player | Score       |
+|--------|-------------|
+| 0      | 1           |
+| 1      | 0           |
+| 2      | 0           |
+| 3      | 0           |
+
+| Player | Card        | Value of Card  |
+|--------|-------------|----------------|
+| 0      | Spade A     | 14             |
+| 1      | Diamond Q   | 12             |
+| 2      | Club 2      | 2              |
+| 3      | Diamond 3   | 3              |
+Winning Player: 0
+
+Current Scores:
+| Player | Score       |
+|--------|-------------|
+| 0      | 2           |
+| 1      | 0           |
+| 2      | 0           |
+| 3      | 0           |
+
+| Player | Card        | Value of Card  |
+|--------|-------------|----------------|
+| 0      | Heart J     | 11             |
+| 1      | Heart 7     | 7              |
+| 2      | Spade 2     | 2              |
+| 3      | Heart 5     | 5              |
+Winning Player: 0
+
+Current Scores:
+| Player | Score       |
+|--------|-------------|
+| 0      | 3           |
+| 1      | 0           |
+| 2      | 0           |
+| 3      | 0           |
+
+| Player | Card        | Value of Card  |
+|--------|-------------|----------------|
+| 0      | Club 6      | 6              |
+| 1      | Spade Q     | 12             |
+| 2      | Heart 9     | 9              |
+| 3      | Diamond 7   | 7              |
+Winning Player: 1
+
+Current Scores:
+| Player | Score       |
+|--------|-------------|
+| 0      | 3           |
+| 1      | 1           |
+| 2      | 0           |
+| 3      | 0           |
+
+| Player | Card        | Value of Card  |
+|--------|-------------|----------------|
+| 0      | Heart 8     | 8              |
+| 1      | Club A      | 14             |
+| 2      | Club Q      | 12             |
+| 3      | Heart T     | 10             |
+Winning Player: 1
+
+Current Scores:
+| Player | Score       |
+|--------|-------------|
+| 0      | 3           |
+| 1      | 2           |
+| 2      | 0           |
+| 3      | 0           |
+
+| Player | Card        | Value of Card  |
+|--------|-------------|----------------|
+| 0      | Heart 4     | 4              |
+| 1      | Diamond K   | 13             |
+| 2      | Diamond 9   | 9              |
+| 3      | Diamond A   | 14             |
+Winning Player: 3
+
+Current Scores:
+| Player | Score       |
+|--------|-------------|
+| 0      | 3           |
+| 1      | 2           |
+| 2      | 0           |
+| 3      | 1           |
+
+| Player | Card        | Value of Card  |
+|--------|-------------|----------------|
+| 0      | Spade 7     | 7              |
+| 1      | Diamond 6   | 10             |
+| 2      | Club 5      | 5              |
+| 3      | Spade 6     | 11             |
+Winning Player: 3
+
+Current Scores:
+| Player | Score       |
+|--------|-------------|
+| 0      | 3           |
+| 1      | 2           |
+| 2      | 0           |
+| 3      | 2           |
+
+| Player | Card        | Value of Card  |
+|--------|-------------|----------------|
+| 0      | Spade 9     | 14             |
+| 1      | Spade 4     | 4              |
+| 2      | Club 9      | 15             |
+| 3      | Club 3      | 3              |
+Winning Player: 2
+
+Current Scores:
+| Player | Score       |
+|--------|-------------|
+| 0      | 3           |
+| 1      | 2           |
+| 2      | 1           |
+| 3      | 2           |
+
+| Player | Card        | Value of Card  |
+|--------|-------------|----------------|
+| 0      | Club 7      | 7              |
+| 1      | Heart K     | 13             |
+| 2      | Spade 5     | 5              |
+| 3      | Heart 2     | 2              |
+Winning Player: 1
+
+Current Scores:
+| Player | Score       |
+|--------|-------------|
+| 0      | 3           |
+| 1      | 3           |
+| 2      | 1           |
+| 3      | 2           |
+
+| Player | Card        | Value of Card  |
+|--------|-------------|----------------|
+| 0      | Diamond T   | 14             |
+| 1      | Spade K     | 13             |
+| 2      | Spade J     | 11             |
+| 3      | Club T      | 16             |
+Winning Player: 3
+
+Current Scores:
+| Player | Score       |
+|--------|-------------|
+| 0      | 3           |
+| 1      | 3           |
+| 2      | 1           |
+| 3      | 3           |
+
+| Player | Card        | Value of Card  |
+|--------|-------------|----------------|
+| 0      | Heart A     | 14             |
+| 1      | Diamond 2   | 2              |
+| 2      | Club 4      | 4              |
+| 3      | Heart Q     | 12             |
+Winning Player: 0
+
+Current Scores:
+| Player | Score       |
+|--------|-------------|
+| 0      | 4           |
+| 1      | 3           |
+| 2      | 1           |
+| 3      | 3           |
+
+| Player | Card        | Value of Card  |
+|--------|-------------|----------------|
+| 0      | Diamond J   | 11             |
+| 1      | Club K      | 13             |
+| 2      | Diamond 5   | 5              |
+| 3      | Diamond 8   | 8              |
+Winning Player: 1
+
+Current Scores:
+| Player | Score       |
+|--------|-------------|
+| 0      | 4           |
+| 1      | 4           |
+| 2      | 1           |
+| 3      | 3           |
+
+| Player | Card        | Value of Card  |
+|--------|-------------|----------------|
+| 0      | Spade T     | 10             |
+| 1      | Club J      | 11             |
+| 2      | Diamond 4   | 4              |
+| 3      | Heart 6     | 6              |
+Winning Player: 1
+
+Current Scores:
+| Player | Score       |
+|--------|-------------|
+| 0      | 4           |
+| 1      | 5           |
+| 2      | 1           |
+| 3      | 3           |
